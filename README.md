@@ -41,6 +41,10 @@ Key points:
 
 ![image alt](https://github.com/naveenk918/Voltage---Current-Characteristics-of-LED-LASER/blob/f0df508504304af5d427e1d1778e00dab26b9a5e/WhatsApp%20Image%202026-03-13%20at%204.42.45%20PM.jpeg)
 
+##Graph
+![WhatsApp Image 2026-03-21 at 6 59 04 PM](https://github.com/user-attachments/assets/6225b754-9992-483d-a207-9d3d097c6e69)
+
+
 
 ## RESULT
 - The IV characteristics of the fiber optic LED were studied.  
